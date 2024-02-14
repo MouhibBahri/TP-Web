@@ -1,3 +1,6 @@
+
+document.querySelector('body').style.backgroundColor="#FFCF96";
+
 function play() {
     var nb = 5;
     var max = 31;

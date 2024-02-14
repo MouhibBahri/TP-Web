@@ -1,3 +1,5 @@
+document.querySelector('body').style.backgroundColor="#CDFADB";
+
 function play() {
     var nb = 5;
     var max = 11;

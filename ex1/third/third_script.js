@@ -1,3 +1,4 @@
+document.querySelector('body').style.backgroundColor="#D04848";
 
 function play() {
     var nb = 5;
