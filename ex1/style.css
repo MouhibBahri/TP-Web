@@ -1,0 +1,34 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&family=Sora:wght@100..800&display=swap');
+
+body{
+    background-color: #BBE2EC;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h1{
+    padding-bottom: 100px;
+    font-family: "Satisfy", cursive;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 8em;
+    color: gray;
+}
+.two{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    margin: 25px;
+}
+
