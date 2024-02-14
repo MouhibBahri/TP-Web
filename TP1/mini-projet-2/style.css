@@ -1,0 +1,10 @@
+.input-container{
+    text-align: center;
+}
+.input-container > *{
+    width: 200px;
+    margin: 5px;
+}
+h1{
+    color: #33B90E;
+}
