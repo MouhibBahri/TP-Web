@@ -1,0 +1,9 @@
+body{
+    background-color: grey;
+}
+li{
+    margin: 10px;
+    color: white;
+    width: 350px;
+    padding: 5px;
+}

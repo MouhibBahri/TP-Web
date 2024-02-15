@@ -6,7 +6,6 @@ document.querySelector('button').addEventListener("click", ()=>{
 });
 
 document.querySelector(".left").addEventListener("click", (event)=>{
-    console.log(event.target.tagName);
 
     if (event.target.tagName==='SPAN'){
         event.target.parentNode.removeChild(event.target);
